@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qinleren89
+- 👀 I’m interested in Mobile developer in training, mastering Flutter. 
+- 🌱 Excited about creating intuitive, engaging mobile experiences.
